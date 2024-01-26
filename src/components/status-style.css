@@ -1,0 +1,13 @@
+.status-round {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.status-online {
+  background-color: var(--secondary-color);
+}
+
+.status-offline {
+  background-color: var(--error-color);
+}
